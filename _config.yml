@@ -14,17 +14,34 @@ links:
     url: https://ac-widget.xyz
 
 app_description: |
-    Create and deploy an iOS app landing page with Jekyll
+    Priyo Shikkhaloy is a Bangladeshi EdTech startup based on mobile app for students to access digital education.
 
-    ## Usage
+Basically Priyo Shikkhaloy is a jobs preparation and learning apps in Bangladesh that offers a wide range of educational resources and job-related materials, such as smart notes, video lectures, practice exams, job circulars, and career guidances, to help individuals prepare for job interviews and exams. The app covers various subjects and skills, including general knowledge, English language and other genres for job preparation.
 
-    1. Fork this repo or use it as a template
-    2. Edit `_config.yml` and enter the details for your app
-    3. Add screenshots (in `assets/screenshots/`) and app icon (in `assets` and add path in `_config.yml`)
-    4. Edit or remove Privacy Policy (`_pages/privacypolicy.md`)
-    5. Deploy to Vercel or Netlify ([guide](https://jekyllrb.com/resources/#guides))
-    
-    <br>This template is open source and can be found at [GitHub](https://github.com/mikakruschel/app-landing-page).
+Key Features –
+
+Course Plan: A structured outline or syllabus that outlines the learning objectives, topics to be covered, assessments, and other details of a course. It provides a roadmap for learners to follow throughout the duration of the course.
+
+Model Test: Model tests are designed to help individuals prepare for the actual test by giving you an opportunity to become familiar with the types of questions you may encounter and the format in which you are presented. About 50k questions is ready for your hundred percent preparation for you.
+
+Question Bank: Over 100k past questions from different job exam and BCS. It gives you the vast idea about question pattern and topic.
+
+Lecture Sheet: There are smart notes of important topics in the lecture sheet section. Lecture sheets made by the country's best experienced mentors will be uploaded in this section as much as necessary, which is completely different from the traditional market books.
+
+Quiz Section: In this section, you can learn with different interactive quiz games. On the other hand, you will get reward points as soon as you cross every level and you will get excellent gifts using the points earned.
+
+Current Affairs: This section will keep you updated on recent issues at home and abroad. Fresh updates every month will be added to this section. The recent questions that come in the recruitment test or admission exam can be easily answered.
+
+Job Circular: This section will be one of the ways for job seekers to stay updated about various job notifications. Everyone who installs favorite educational apps will get these updates for free. Whenever there is a circular, the notification will appear in your smartphone.
+
+Blog: This feature has rich blogs about career tips, how to be more successful, experience sharing and caring stories of experiences, new people getting into trouble and ways to overcome it.
+
+Bookshop: The attractive feature will include books written by the country's best popular authors, video courses of experienced mentors, journals and modern edu e-shops of various educational materials.
+
+There will also be Age Calculator feature to find out your age at the time of applying for a job, Translation feature to translate local and foreign languages, bookmark options to read important questions at the time of time, and the use of various excellent educational technologies.
+
+We assured that, Priyo Shikkhaloy creates the best edu-environment for job seekers and learner.
+Never stop learning.
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
