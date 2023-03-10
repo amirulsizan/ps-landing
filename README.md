@@ -1,6 +1,6 @@
-# App Landing Page
+# Priyo Shikkhaloy App Landing Page
 
-Create and deploy an iOS app landing page with Jekyll
+Priyo Shikkhaloy is a Bangladeshi jobs preparation  and learning app.
 
 <img src="https://kruschel.dev/img/app-landing-page.png" width="440">
 
