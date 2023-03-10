@@ -1,16 +1,9 @@
 # Priyo Shikkhaloy App Landing Page
 
-Priyo Shikkhaloy is a Bangladeshi jobs preparation  and learning app.
-
-<img src="https://kruschel.dev/img/app-landing-page.png" width="440">
-
-## Usage
-
-1. Fork this repo or use it as a template
-2. Edit `_config.yml` and enter the details for your app
-3. Add screenshots (in `assets/screenshots/`) and app icon (in `assets` and add path in `_config.yml`)
-4. Edit or remove Privacy Policy (`_pages/privacypolicy.md`)
-5. Deploy to Vercel or Netlify ([guide](https://jekyllrb.com/resources/#guides))
+Priyo Shikkhaloy is a Bangladeshi EdTech startup based on mobile app for students to access digital education.
+Basically Priyo Shikkhaloy is a jobs preparation and learning apps in Bangladesh that offers a wide range of educational resources and job-related materials, such as smart notes, video lectures, practice exams, job circulars, and career guidances, to help individuals prepare for job interviews and exams. The app covers various subjects and skills, including general knowledge, English language and other genres for job preparation.
+Priyo Shikkhaloy creates the best edu-environment for job seekers and learner.
+Never stop learning.
 
 ## Credits
 - [Jekyll](https://github.com/jekyll/jekyll)
