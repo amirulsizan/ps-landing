@@ -1,9 +1,9 @@
 app_name: Priyo Shikkhaloy
 app_subtitle: Jobs Preparation & Learning App
-app_download: https://apps.apple.com/us/app/flashtex-flashcards/id1534437697
-app_github: https://github.com/mikakruschel/app-landing-page
+app_download: https://play.google.com/store/apps/details?id=com.priyoshikkhaloy.android
+app_github: https://github.com/amirulsizan/ps-landing
 app_id: 1534437697
-email: mail@kruschel.dev
+email: mail@priyoshikkhaloy.com
 app_icon: /assets/icon.jpg
 favicon: /assets/icon.jpg
 
@@ -11,7 +11,7 @@ made_by: // Made by [Amirul Sizan](https://amirulsizan.live)
 
 links:
   - title: Facebook
-    url: https://facebook.com?priyoshikkhaloy
+    url: https://facebook.com/priyoshikkhaloy
 
 app_description: 
     Priyo Shikkhaloy is a Bangladeshi EdTech startup based on mobile app for students to access digital education.
