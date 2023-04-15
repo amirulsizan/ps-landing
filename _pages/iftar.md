@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Iftar Confirmation 2023
 permalink: /iftar-2023/
 ---
